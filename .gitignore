@@ -1,5 +1,4 @@
 # Go binary artifacts
-padthai
 *.exe
 *.exe~
 *.dll
